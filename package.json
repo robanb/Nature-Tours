@@ -1,0 +1,22 @@
+{
+  "name": "natours",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robanb/Nature-Tours.git"
+  },
+  "author": "Roba Nath Basnet",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/robanb/Nature-Tours/issues"
+  },
+  "homepage": "https://github.com/robanb/Nature-Tours#readme",
+  "devDependencies": {
+    "node-sass": "^8.0.0"
+  }
+}
